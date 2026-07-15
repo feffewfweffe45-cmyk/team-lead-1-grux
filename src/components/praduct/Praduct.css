@@ -1,0 +1,42 @@
+.product {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.product-wr {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+}
+
+.cards-wr {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 10px;
+}
+
+.card {
+  width: 250px;
+  background-color: #f4f5f7;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card h3,
+.card p,
+.card strong {
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.card p {
+  color: #898989;
+}

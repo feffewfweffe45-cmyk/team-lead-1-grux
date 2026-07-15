@@ -1,0 +1,40 @@
+.browse {
+  width: 100%;
+}
+
+.browse-wr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  gap: 30px;
+  width: 100%;
+  text-align: center;
+}
+
+.title p {
+  color: #666666;
+}
+
+.browse-products {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.brw-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  width: 350px;
+  text-align: center;
+  padding: 10px;
+}
+
+.brw-card img {
+  width: 100%;
+}
