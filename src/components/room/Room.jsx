@@ -23,18 +23,14 @@ function Room() {
         <div className="room-card">
           <img src="/room1.png" alt="" />
 
-          <div className="room-info">
-            <span>01 — Bed Room</span>
-            <h3>Inner Peace</h3>
-            <button>→</button>
-          </div>
+
         </div>
 <div className="img-wrapper">
         <div className="room-card">
           <img src="/room2.png" alt="" />
         </div>
 
-        <button className="next">👉</button>
+
       </div>
     </section>
   );
