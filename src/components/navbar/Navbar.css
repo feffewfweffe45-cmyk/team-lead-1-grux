@@ -1,0 +1,30 @@
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.nav-list {
+  display: flex;
+  list-style: none;
+  gap: 55px;
+}
+.nav-link {
+  color: black;
+  text-decoration: none;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.navbar-icons a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+.navbar-icons {
+  gap: 10px;
+  display: flex;
+}
