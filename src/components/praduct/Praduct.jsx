@@ -1,11 +1,11 @@
-import syltherine from "../assets/Images.png";
-import leviosa from "../assets/Images (1).png";
-import lolito from "../assets/Images (2).png";
-import respira from "../assets/Images (3).png";
-import grifo from "../assets/Images (4).png";
-import muggo from "../assets/Images (5).png";
-import pingky from "../assets/Images (6).png";
-import potty from "../assets/Images (7).png";
+import syltherine from "../../assets/Images.png";
+import leviosa from "../../assets/Images (1).png";
+import lolito from "../../assets/Images (2).png";
+import respira from "../../assets/Images (3).png";
+import grifo from "../../assets/Images (4).png";
+import muggo from "../../assets/Images (5).png";
+import pingky from "../../assets/Images (6).png";
+import potty from "../../assets/Images (7).png";
 
 import "./Praduct.css";
 
